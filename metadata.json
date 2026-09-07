@@ -1,0 +1,6 @@
+{
+  "name": "TaskEarn",
+  "description": "Premium Telegram Mini App for micro-tasks, rewards, referrals, and profile management with Telegram WebApp SDK integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
